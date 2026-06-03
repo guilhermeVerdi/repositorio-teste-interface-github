@@ -1,1 +1,2 @@
-# Desenvolvedor : Guilherme
+# Desenvolvedor : Jonas
+# Sub - dev : Guilherme
